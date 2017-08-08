@@ -12,14 +12,14 @@ Making self driving car project built on toy RC car.
 #### CAMERA
 * GigE Camera
 * [Stereolabs ZED Camera](https://www.stereolabs.com/)
-#### Process Unit
+#### Processing Unit
 * [Nuvo-5095GC](http://www.neousys-tech.com/en/product/application/gpu-computing/nuvo-5095gc-gpu-computer)
 * [Nvidia TX2](https://developer.nvidia.com/embedded/buy/jetson-tx2)
 #### GPS/IMU
 * [SparkFun 9DoF Razor IMU M0](https://www.sparkfun.com/products/14001)
 * [NovAtel SPAN-IGM-A1](https://www.novatel.com/products/span-gnss-inertial-systems/span-combined-systems/span-igm-a1/)
 ### Etc
-* Battery Pack
+* MOCAT Battery Pack SK-NB30 30000mAh 
 * Eth Router
 
 
