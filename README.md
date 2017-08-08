@@ -18,7 +18,7 @@ Making self driving car project built on toy RC car.
 #### GPS/IMU
 * [SparkFun 9DoF Razor IMU M0](https://www.sparkfun.com/products/14001)
 * [NovAtel SPAN-IGM-A1](https://www.novatel.com/products/span-gnss-inertial-systems/span-combined-systems/span-igm-a1/)
-### Etc
+#### Etc
 * MOCAT Battery Pack SK-NB30 30000mAh 
 * Eth Router
 
