@@ -5,7 +5,7 @@ Making self driving car project built on toy RC car.
 ## System Configuration
 ### Hardware
 #### Mobile Platform
-* 
+* Any 1/10 scale RC-car
 #### LIDAR
 * [Sweep scanning LIDAR](http://scanse.io/)
 * [RPLIDAR A2](https://www.dfrobot.com/product-1461.html)
