@@ -25,8 +25,8 @@ Making self driving car project built on toy RC car.
 
 ### Software
 #### ROS
-#### Tensorflow/Keras
-#### OpenCV
+#### [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/)
+#### [OpenCV](https://github.com/jaeoh2/installOpenCVUbuntu14.04)
 #### Simulator
 - [Udacity Self-driving car Simulator](https://github.com/udacity/self-driving-car-sim)
 - [TORCS-keras](https://github.com/yanpanlau/DDPG-Keras-Torcs)
