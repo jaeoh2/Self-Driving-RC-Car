@@ -29,6 +29,7 @@ Making self driving car project built on toy RC car.
 #### OpenCV
 #### Simulator
 - [Udacity Self-driving car Simulator](https://github.com/udacity/self-driving-car-sim)
+- [TORCS-keras](https://github.com/yanpanlau/DDPG-Keras-Torcs)
 
 ### Dataset
 - [Kitti](http://www.cvlibs.net/datasets/kitti/index.php)
