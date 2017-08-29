@@ -30,6 +30,10 @@ Making self driving car project built on toy RC car.
 #### Simulator
 - [Udacity Self-driving car Simulator](https://github.com/udacity/self-driving-car-sim)
 
+### Dataset
+- [Kitti](http://www.cvlibs.net/datasets/kitti/index.php)
+- [Stanford Track Collection](http://cs.stanford.edu/people/teichman/stc/)
+
 ## References
 - http://www.jetsonhacks.com/category/robotics/jetson-racecar/
 - https://github.com/ApolloAuto/apollo/blob/master/docs/quickstart/apollo_1_0_hardware_system_installation_guide.md
