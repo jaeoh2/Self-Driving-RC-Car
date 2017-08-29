@@ -39,3 +39,7 @@ Making self driving car project built on toy RC car.
 - http://www.jetsonhacks.com/category/robotics/jetson-racecar/
 - https://github.com/ApolloAuto/apollo/blob/master/docs/quickstart/apollo_1_0_hardware_system_installation_guide.md
 - https://github.com/mit-racecar
+### Papers
+- [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf)
+- [MobileNet](https://arxiv.org/pdf/1704.04861.pdf)
+- [LIDAR-based 3D Object Perception](https://pdfs.semanticscholar.org/2c45/03c72ba7f53f3385859bd5e6311c58e73905.pdf)
