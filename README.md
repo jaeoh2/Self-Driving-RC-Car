@@ -1,6 +1,6 @@
 # Self Driving RC Car
 ## Introduction
-Making self driving car project built on toy RC car.
+Making self driving car project built on toy RC car with deep learning approach.
 
 ## System Configuration
 ### Hardware
