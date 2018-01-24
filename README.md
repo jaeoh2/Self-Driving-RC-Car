@@ -46,6 +46,7 @@ Making self driving car project built on toy RC car with deep learning approach.
 - https://github.com/ApolloAuto/apollo/blob/master/docs/quickstart/apollo_1_0_hardware_system_installation_guide.md
 - https://github.com/mit-racecar
 - https://github.com/topics/autonomous-vehicles
+- https://autorally.github.io/build/
 ### Papers
 - [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf)
 - [MobileNet](https://arxiv.org/pdf/1704.04861.pdf)
