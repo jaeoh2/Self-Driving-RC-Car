@@ -1,6 +1,8 @@
 # Self Driving RC Car
 ## Introduction
 Making self driving car project built on toy RC car with deep learning approach.
+Tested in Microsoft [AirSim](https://github.com/Microsoft/AirSim).
+Implemented in scale RC car.
 
 ## System Configuration
 ### Hardware
@@ -32,12 +34,13 @@ Making self driving car project built on toy RC car with deep learning approach.
 - [OpenCV](https://github.com/jaeoh2/installOpenCVUbuntu14.04)
 - [AutoRally Platform](https://github.com/AutoRally/autorally)
 #### Simulator
+- [AirSim](https://seattle.github.com/carla-simulator/carla)
 - [Udacity Self-driving car Simulator](https://github.com/udacity/self-driving-car-sim)
 - [TORCS-keras](https://github.com/yanpanlau/DDPG-Keras-Torcs)
 - [CARLA](https://seattle.github.com/carla-simulator/carla)
-- [AirSim](https://seattle.github.com/carla-simulator/carla)
 
 ### Dataset
+- [AirSim Tutorial Dataset](https://aka.ms/AirSimTutorialDataset)
 - [Kitti](http://www.cvlibs.net/datasets/kitti/index.php)
 - [Stanford Track Collection](http://cs.stanford.edu/people/teichman/stc/)
 
