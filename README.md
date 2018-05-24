@@ -28,11 +28,15 @@ Implemented in scale RC car.
 #### GPS/IMU
 * [SparkFun 9DoF Razor IMU M0](https://www.sparkfun.com/products/14001)
 * [NovAtel SPAN-IGM-A1](https://www.novatel.com/products/span-gnss-inertial-systems/span-combined-systems/span-igm-a1/)
+* Microstrain 3DM-GX4-25 IMU
 #### PSU
 * [M4-ATX CAR PC PSU](http://www.mini-box.com/M4-ATX)
-#### Etc
+* DC/DC Converter (3.3v, 5v out)
+* 
+#### Battery
 * MOCAT Battery Pack SK-NB30 30000mAh 
-* Eth Router
+* 5,000~6,000 mAh 14v Battery Pack
+* 10,000 ~ 20,000 mAh 22v Battery Pack
 #### Flight Controller
 * Pixhawk 
 
