@@ -11,14 +11,20 @@ Implemented in scale RC car.
 * 1/5 scale RC-car
 #### LIDAR
 * [Sweep scanning LIDAR](http://scanse.io/)
-* [RPLIDAR A2](https://www.dfrobot.com/product-1461.html)
+* [RPLIDAR A2:$319](https://www.dfrobot.com/product-1461.html) 
 #### CAMERA
 * USB3 Camera
-* [Stereolabs ZED Camera](https://www.stereolabs.com/)
+* [Stereolabs ZED Camera:$499](https://www.stereolabs.com/)
+* [RealSense d415:$149](https://click.intel.com/intelr-realsensetm-depth-camera-d415.html)
 #### Processing Unit
 * [Nuvo-5095GC](http://www.neousys-tech.com/en/product/application/gpu-computing/nuvo-5095gc-gpu-computer)
 * [Nvidia TX2](https://developer.nvidia.com/embedded/buy/jetson-tx2)
-* mini-ITX + GPU
+* Custom PC  
+  * core-i3
+  * Gtx-1050ti
+  * ssd 128G
+  * DDR4 8G
+  * mini-ITX
 #### GPS/IMU
 * [SparkFun 9DoF Razor IMU M0](https://www.sparkfun.com/products/14001)
 * [NovAtel SPAN-IGM-A1](https://www.novatel.com/products/span-gnss-inertial-systems/span-combined-systems/span-igm-a1/)
