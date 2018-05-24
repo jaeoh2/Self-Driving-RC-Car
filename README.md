@@ -7,8 +7,8 @@ Implemented in scale RC car.
 ## System Configuration
 ### Hardware
 #### Mobile Platform
-* 1/10 scale RC-car (TRAXXAS SUMMIT, E-MAXX)
-* 1/5 scale RC-car
+* 1/8 scale RC-car
+* 1/5 scale RC-car (HPI Baja 5SC)
 #### LIDAR
 * [Sweep scanning LIDAR](http://scanse.io/)
 * [RPLIDAR A2:$319](https://www.dfrobot.com/product-1461.html) 
