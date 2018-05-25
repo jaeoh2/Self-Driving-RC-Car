@@ -1,13 +1,12 @@
 # Self Driving RC Car
 ## Introduction
 Making self driving car project built on toy RC car with deep learning approach.
-Tested in Microsoft [AirSim](https://github.com/Microsoft/AirSim).
-Implemented in scale RC car.
+Implemented in scale RC car running with ROS.
 
 ## System Configuration
 ### Hardware
 #### Mobile Platform
-* 1/8 scale RC-car
+* 1/8 scale RC-car ()
 * 1/5 scale RC-car (HPI Baja 5SC)
 #### LIDAR
 * [Sweep scanning LIDAR](http://scanse.io/)
@@ -32,14 +31,13 @@ Implemented in scale RC car.
 #### PSU
 * [M4-ATX CAR PC PSU](http://www.mini-box.com/M4-ATX)
 * DC/DC Converter (3.3v, 5v out)
-* 
 #### Battery
 * MOCAT Battery Pack SK-NB30 30000mAh 
 * 5,000~6,000 mAh 14v Battery Pack
 * 10,000 ~ 20,000 mAh 22v Battery Pack
-#### Flight Controller
+#### Controller
 * Pixhawk 
-
+* Arduino Micro
 ### Software
 - [ROS](http://www.ros.org/)
 - [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/)
